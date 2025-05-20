@@ -28,6 +28,6 @@ df = sns.load_dataset('tips')
 ## 📈 Primary Results
 After exploring the data across variables like smokers, time, sex, day,..., we found some interesting things:
 
-- Smokers don’t tip more than non-smokers [Xem chi tiết tại](https://github.com/letuanGithubVn1/Restaurant-Tips-Analysis/blob/main/Restaurant_tips_analysis.ipynb#do_people_who_smoke_give_more_tips).
+- Smokers don’t tip more than non-smokers [Xem chi tiết trên Colab](https://colab.research.google.com/drive/1-l3qYne4YuMvYbio8VoPksIhZcM4Itpn#scrollTo=AOyXowgkXkKJ).
 - Men also don't tend to tip more than women. Or Male smokers tip more than male non-smokers .
 - There's a noticeable difference in tip amounts between lunch and dinner. And Tips tend to be higher on weekends.
