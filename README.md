@@ -12,3 +12,7 @@ The primary goal is to identify factors that may influence tip amounts, in order
   - Attributes include: total_bill, tip, sex, smoker, day, time, size, etc.
 
 **Data Access:** The dataset is loaded directly in the notebook using the command:
+```
+import seaborn as sns
+df = sns.load_dataset('tips')
+```
