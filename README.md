@@ -30,4 +30,12 @@ After exploring the data across variables like smokers, time, sex, day,..., we f
 
 - Smokers don’t tip more than non-smokers.
 - Men also don't tend to tip more than women. Or Male smokers tip more than male non-smokers .
-- There's a noticeable difference in tip amounts between lunch and dinner. And Tips tend to be higher on weekends. [Learn more:](https://github.com/letuanGithubVn1/Restaurant-Tips-Analysis/blob/main/Restaurant_tips_analysis.ipynb)
+- There's a noticeable difference in tip amounts between lunch and dinner. And Tips tend to be higher on weekends. [Learn more](https://github.com/letuanGithubVn1/Restaurant-Tips-Analysis/blob/main/Restaurant_tips_analysis.ipynb)
+
+## 🚀 Usage Instructions
+Clone the repository, install the required libraries, and launch the Restaurant_tips_analysis.ipynb notebook using Jupyter Notebook or Google Colab.
+
+``` python
+pip install pandas matplotlib notebook
+jupyter notebook Restaurant_tips_analysis.ipynb
+```
