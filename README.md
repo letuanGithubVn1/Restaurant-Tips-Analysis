@@ -6,10 +6,15 @@ The primary goal is to identify factors that may influence tip amounts, in order
 **Data Source:** The "Tips" dataset from the Seaborn library – a well-known dataset commonly used for teaching and practicing data analysis.
 
 **Description:**
-
   - Number of records: ~244 rows
-
   - Attributes include: total_bill, tip, sex, smoker, day, time, size, etc.
+    - total_bill: Total amount of the bill.
+    - tip: Tip amount left by the customer.
+    - sex: Gender of the person paying the bill.
+    - smoker: Whether the customer is a smoker or not.
+    - day: Day of the week.
+    - time: Lunch or dinner.
+    - size: Number of people at the table.
 
 **Data Access:** The dataset is loaded directly in the notebook using the command:
 ```python
