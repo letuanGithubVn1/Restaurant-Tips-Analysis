@@ -39,3 +39,6 @@ Clone the repository, install the required libraries, and launch the Restaurant_
 pip install pandas matplotlib notebook
 jupyter notebook Restaurant_tips_analysis.ipynb
 ```
+**Note**: Make sure to install the seaborn library if you want to load the dataset directly.
+
+
