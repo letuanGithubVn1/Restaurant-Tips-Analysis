@@ -25,7 +25,7 @@ df = sns.load_dataset('tips')
 - Explore the dataset and its distributions.  
 - Analyze the relationships between features and tip amounts.
 
-## 📈 Kết quả chính
+## 📈 Primary Results
 After exploring the data across variables like smokers, time, sex, day,..., we found some interesting things:
 
 - Smokers don’t necessarily tip more than non-smokers.
