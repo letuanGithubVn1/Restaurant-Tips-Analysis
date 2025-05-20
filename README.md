@@ -24,3 +24,10 @@ df = sns.load_dataset('tips')
 ## 🎯 Main Objectives
 - Explore the dataset and its distributions.  
 - Analyze the relationships between features and tip amounts.
+
+## 📈 Kết quả chính
+After exploring the data across variables like smokers, time, sex, day,..., we found some interesting things:
+
+- Smokers don’t necessarily tip more than non-smokers.
+- Men also don't tend to tip more than women. Or Male smokers tip more than male non-smokers .
+- There's a noticeable difference in tip amounts between lunch and dinner. And Tips tend to be higher on weekends.
