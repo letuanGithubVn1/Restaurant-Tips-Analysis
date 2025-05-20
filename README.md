@@ -1,4 +1,4 @@
-# Restaurant-Tips-Analysis
+Restaurant-Tips-Analysis
 This project aims to use the restaurant tips dataset to examine the relationship between different variables and the tips given.
 The primary goal is to identify factors that may influence tip amounts, in order to provide valuable insights for restaurant managers and service staff.
 
