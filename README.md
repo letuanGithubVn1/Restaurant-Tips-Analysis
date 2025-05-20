@@ -22,5 +22,6 @@ import seaborn as sns
 df = sns.load_dataset('tips')
 ```
 ## 🎯 Main Objectives
-_ Explore the dataset and its distributions.
+_ Explore the dataset and its distributions.  
+
 _ Analyze the relationships between features and tip amounts.
